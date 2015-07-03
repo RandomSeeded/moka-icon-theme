@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Moka
 Comment=A simple and consistent icon set.
-Inherits=Faba
+Inherits=ubuntu-mono-dark
 
 # KDE Specifics
 
